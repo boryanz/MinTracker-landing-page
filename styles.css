@@ -1,0 +1,177 @@
+body {
+    background-color: #1C2128;
+}
+
+.hero-section {
+    padding: 30px;
+}
+
+footer {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Commissioner", serif;
+}
+ 
+span {
+    background-color: #233D66;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.waiting-list-button-container {
+    width: 100%;
+    text-align: center;
+}
+
+.waiting-list-button {
+    color: #FFFFFF;
+    font-family: "Commissioner", serif;
+    cursor: pointer;
+}
+
+.privacy-policy {
+    color: #FFFFFF;
+    width: 100%;
+    font-style: normal;
+    text-align: center;
+    font-family: "Commissioner", serif;
+    cursor: pointer;
+}
+
+.main-title {
+    width: 100%;
+    font-size: 60px;
+    font-family: "Commissioner", serif;
+    font-weight: 900;    
+    font-style: normal;
+    text-align: center;
+    color: #FFFFFF;
+    line-height: 1;
+}
+
+.widget-screenshot {
+    width: 100%;
+    text-align: center;
+}
+
+.google-play-description {
+    width: 100%;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 44px;
+    font-family: "Commissioner", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.logo-container {
+    width: 100%;
+    text-align: center;
+}
+
+.minimal-tracker-icon {
+    width: 100px;
+    height: 100px;
+}
+
+.description-widgets {
+    width: 100%;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 44px;
+    font-family: "Commissioner", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.description {
+    width: 100%;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 24px;
+    font-family: "Commissioner", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.description-goal {
+    width: 100%;
+    color: #FFFFFF;
+    text-align: center;
+    opacity: 80%;
+    font-size: 24px;
+    font-family: "Commissioner", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.screenshots-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.dashboard {
+    position: relative;
+}
+
+.widget {
+    width: 400px;
+    height: 800px;
+    border-radius: 18px;
+}
+
+.dashboard-light {
+    width: 400px;
+    height: 800px;
+    border-radius: 18px;
+}
+
+.dashboard-dark {
+    width: 400px;
+    height: 80000px;
+    border-radius: 18px;
+}
+
+.button {
+    width: 250px;
+    height: auto;
+}
+
+.button-container {
+    width: 100%;
+    text-align: center;
+}
+
+.laws {
+    width: 400px;
+    height: 800px;
+    border-radius: 18px;
+}
+
+.law {
+    width: 400px;
+    height: 800px;
+    border-radius: 18px;
+}
+
+.drawer {
+    width: 400px;
+    height: 800px;
+    border-radius: 18px;
+}
+
+.downloads {
+    font-size: 60px;
+    font-family: "Commissioner", serif;
+    font-style: bold;
+    text-align: center;
+    font-style: normal;
+    color: #FFFFFF;
+}
